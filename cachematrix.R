@@ -6,7 +6,7 @@
 
 ## makeCacheMatrix provides 4 functions. (get) returns a passed matrix. (getinvere) returns an inverted matrix.
 ## (set) changes the stored input (x) matrix and resets the variable that stores the inverted (i) matrix within 
-## the makeCacheMatrix environment. (setinverse) stores the invetred matrix.      
+## the makeCacheMatrix environment. (setinverse) stores the inverted matrix.      
 
 makeCacheMatrix <- function(x = matrix()) {
         
